@@ -37,4 +37,5 @@ I got a problem, and lots of stuff.
 * roland ju08
 * roland jp06
 * dsi pro 2
+* korg minilogue
 * moog mother 32
