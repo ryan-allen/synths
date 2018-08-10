@@ -33,6 +33,7 @@ I got a problem, and lots of stuff.
 * elektron digitakt
 * reface CS
 * po12
+* korg em1
 
 ### etc
 
@@ -42,6 +43,9 @@ I got a problem, and lots of stuff.
 * scarlett 18i20
 * rnc
 * rokit 5's
+* beatstep 
+* keystep
+* nanoKONTROL2
 
 ### euro
 
@@ -64,11 +68,16 @@ I got a problem, and lots of stuff.
 * dsi pro 2
 * korg minilogue
 * moog mother 32
+* digitakt
 * deckards dream
 * novation peak
 * korg arp desktop (rev2)
 * korg arp (rev1, non-fs)
 * reface dx
+* novation zero sl
+* novation ks5
+* roland rd700
+* roland a88
 
 ## stuff i want
 
