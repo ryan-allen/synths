@@ -47,6 +47,14 @@ I got a problem, and lots of stuff.
 * keystep
 * nanoKONTROL2
 
+### software
+
+* ableton 10 suite
+* arturia v collection 6
+* soundtoys bundle
+* NI komplete
+* serum
+
 ### euro
 
 * klavis twin waves
