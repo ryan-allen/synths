@@ -1,6 +1,8 @@
 # synths
 I got a problem, and lots of stuff.
 
+## stuff i got
+
 * dsi rev 2
 * moog voyager performer
 * moog subsequent 37 cv
@@ -19,3 +21,20 @@ I got a problem, and lots of stuff.
 * yamaha mg10
 * eventide h9
 * moog minitaur (special edition sides)
+* elektron digitakt
+* elektron digitone
+* korg prologue 16
+
+
+# stuff i used to have
+
+* moog sub37
+* moog minitaur
+* moog slim fatty
+* nord lead 4
+* access virus ti2
+* octatrack mki
+* roland ju08
+* roland jp06
+* dsi pro 2
+* moog mother 32
