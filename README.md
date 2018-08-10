@@ -3,28 +3,40 @@ I got a problem, and lots of stuff.
 
 ## stuff i got
 
-* dsi rev 2
+### analog monos
+
 * moog voyager performer
 * moog subsequent 37 cv
-* nord lead a1
-* nord electro 5d
 * sem boomstar mki
-* dx7 mki
-* roland d50
-* korg m1
-* korg wavestation a/d (rack)
 * moog dfam
 * moog mother 32
 * pitsburgh microvolt
 * make noise 0 coast
+* moog minitaur (special edition sides)
+
+### analog polys
+
+* dsi rev 2
+* korg prologue 16
+* alpha juno 1 + midiclub programmer
+
+### digital
+
+* nord lead a1
+* nord electro 5d
+* dx7 mki
+* roland d50 + pg1000 programmer
+* korg m1
+* korg wavestation a/d (rack)
+* elektron digitone
+* elektron digitakt
+
+### etc
+
 * social entropy engine (white)
 * yamaha mg10
 * eventide h9
-* moog minitaur (special edition sides)
-* elektron digitakt
-* elektron digitone
-* korg prologue 16
-
+* scarlett 18i20
 
 ## stuff i used to have
 
@@ -43,4 +55,4 @@ I got a problem, and lots of stuff.
 
 ## stuff i want
 
-* dsi p6
+* dsi p6 😍😍😍
