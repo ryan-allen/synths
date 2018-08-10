@@ -13,6 +13,7 @@ I got a problem, and lots of stuff.
 * pitsburgh microvolt
 * make noise 0 coast
 * moog minitaur (special edition sides)
+* korg monotron
 
 ### analog polys
 
@@ -30,6 +31,8 @@ I got a problem, and lots of stuff.
 * korg wavestation a/d (rack)
 * elektron digitone
 * elektron digitakt
+* reface CS
+* po12
 
 ### etc
 
@@ -64,6 +67,7 @@ I got a problem, and lots of stuff.
 * novation peak
 * korg arp desktop (rev2)
 * korg arp (rev1, non-fs)
+* reface dx
 
 ## stuff i want
 
