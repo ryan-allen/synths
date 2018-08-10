@@ -41,6 +41,7 @@ I got a problem, and lots of stuff.
 * eventide h9
 * scarlett 18i20
 * rnc
+* rokit 5's
 
 ### euro
 
