@@ -62,6 +62,8 @@ I got a problem, and lots of stuff.
 * moog mother 32
 * deckards dream
 * novation peak
+* korg arp desktop (rev2)
+* korg arp (rev1, non-fs)
 
 ## stuff i want
 
