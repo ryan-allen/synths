@@ -37,6 +37,7 @@ I got a problem, and lots of stuff.
 * yamaha mg10
 * eventide h9
 * scarlett 18i20
+* rnc
 
 ## stuff i used to have
 
