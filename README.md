@@ -53,7 +53,7 @@ I got a problem, and lots of stuff.
 * moog minitaur
 * moog slim fatty
 * nord lead 4
-* access virus ti2
+* access virus ti2 keyboard
 * octatrack mki
 * roland ju08
 * roland jp06
