@@ -16,7 +16,7 @@ I got a problem, and lots of stuff.
 
 ### analog polys
 
-* dsi rev 2
+* dsi rev 2 16
 * korg prologue 16
 * alpha juno 1 + midiclub programmer
 
