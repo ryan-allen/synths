@@ -39,6 +39,14 @@ I got a problem, and lots of stuff.
 * scarlett 18i20
 * rnc
 
+### euro
+
+* klavis twin waves
+* make noise function
+* lil' erebus
+* befacto dual atenuverter
+* 2hp tune
+
 ## stuff i used to have
 
 * moog sub37
@@ -53,6 +61,7 @@ I got a problem, and lots of stuff.
 * korg minilogue
 * moog mother 32
 * deckards dream
+* novation peak
 
 ## stuff i want
 
