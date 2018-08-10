@@ -26,7 +26,7 @@ I got a problem, and lots of stuff.
 * korg prologue 16
 
 
-# stuff i used to have
+## stuff i used to have
 
 * moog sub37
 * moog minitaur
@@ -40,3 +40,7 @@ I got a problem, and lots of stuff.
 * korg minilogue
 * moog mother 32
 * deckards dream
+
+## stuff i want
+
+* dsi p6
