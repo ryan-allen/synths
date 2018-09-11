@@ -90,3 +90,6 @@ I got a problem, and lots of stuff.
 ## stuff i want
 
 * dsi p6 😍😍😍
+* elektron rytm mkii
+* elektron a4 mkii
+* virus ti2 polar (best one!)
