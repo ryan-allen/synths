@@ -23,6 +23,7 @@ I got a problem, and lots of stuff.
 
 ### digital
 
+* yamaha modx6
 * nord lead a1
 * nord electro 5d
 * dx7 mki
