@@ -42,10 +42,12 @@ I got a problem, and lots of stuff.
 * yamaha mg10
 * eventide h9
 * scarlett 18i20
+* babyface pro
 * rnc
 * rokit 5's
 * beatstep 
 * keystep
+* keylab mkii 49
 * nanoKONTROL2
 
 ### software
@@ -55,6 +57,11 @@ I got a problem, and lots of stuff.
 * soundtoys bundle
 * NI komplete
 * serum
+* tone2 electra
+* tone2 saurus
+* tone2 icarus
+* d16 punchbox
+* d16 phoyshsochoscoyon
 
 ### euro
 
