@@ -53,6 +53,7 @@ I got a problem, and lots of stuff.
 ### software
 
 * ableton 10 suite
+* cubase 10 pro
 * arturia v collection 6
 * soundtoys bundle
 * NI komplete
