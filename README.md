@@ -27,8 +27,7 @@ I got a problem, and lots of stuff.
 * yamaha modx6
 * nord lead a1
 * nord electro 5d
-* dx7 mki
-* roland d50 + pg1000 programmer
+* pg1000 programmer
 * korg m1
 * korg wavestation a/d (rack)
 * elektron digitone
@@ -53,10 +52,8 @@ I got a problem, and lots of stuff.
 
 ### software
 
-* ableton 10 suite
 * cubase 10 pro
 * arturia v collection 6
-* soundtoys bundle
 * NI komplete
 * serum
 * tone2 electra
@@ -96,6 +93,10 @@ I got a problem, and lots of stuff.
 * novation ks5
 * roland rd700
 * roland a88
+* dx7 mki
+* roland d50
+* ableton 10 suite
+* soundtoys bundle
 
 ## stuff i want
 
