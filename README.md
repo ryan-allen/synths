@@ -12,18 +12,18 @@ I got a problem, and lots of stuff.
 * moog mother 32
 * pitsburgh microvolt
 * make noise 0 coast
-* moog minitaur (special edition sides)
+* moog minitaur (special edition sides) (on loan to ben)
 * korg monotron
 
 ### analog polys
 
-* dsi rev 2 16
+* dsi rev 2 16 (on loan to ben)
 * korg prologue 16
 * alpha juno 1 + midiclub programmer
 
 ### digital
 
-* tasty chips gr-1 :)
+* tasty chips gr-1
 * yamaha modx6
 * nord lead a1
 * nord electro 5d
@@ -32,15 +32,15 @@ I got a problem, and lots of stuff.
 * korg wavestation a/d (rack)
 * elektron digitone
 * elektron digitakt
-* reface CS
+* reface CS (on loan to charlie)
 * po12
 * korg em1
 
 ### etc
 
 * social entropy engine (white)
-* yamaha mg10
-* eventide h9
+* yamaha mg10 (on loan to ben)
+* eventide h9 (on loan to ben)
 * scarlett 18i20
 * babyface pro
 * rnc
