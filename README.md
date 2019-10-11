@@ -17,7 +17,7 @@ I got a problem, and lots of stuff.
 
 ### analog polys
 
-* dsi rev 2 16 (on loan to ben)
+* juno 6 w/ 66 mod
 * korg prologue 16
 * alpha juno 1 + midiclub programmer
 
@@ -97,6 +97,7 @@ I got a problem, and lots of stuff.
 * roland d50
 * ableton 10 suite
 * soundtoys bundle
+* dsi rev 2 16
 
 ## stuff i want
 
