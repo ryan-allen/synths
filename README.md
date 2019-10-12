@@ -7,7 +7,6 @@ I got a problem, and lots of stuff.
 
 * moog voyager performer
 * moog subsequent 37 cv
-* sem boomstar mki
 * moog dfam
 * moog mother 32
 * pitsburgh microvolt
@@ -98,6 +97,7 @@ I got a problem, and lots of stuff.
 * ableton 10 suite
 * soundtoys bundle
 * dsi rev 2 16
+* sem boomstar mki
 
 ## stuff i want
 
