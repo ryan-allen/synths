@@ -8,7 +8,7 @@ I got a problem, and lots of stuff.
 * moog voyager performer
 * moog subsequent 37 cv
 * moog dfam
-* moog mother 32
+* moog mother 32 (x 2)
 * pitsburgh microvolt
 * make noise 0 coast
 * moog minitaur (special edition sides) (on loan to ben)
@@ -31,7 +31,7 @@ I got a problem, and lots of stuff.
 * korg wavestation a/d (rack)
 * elektron digitone
 * elektron digitakt
-* reface CS (on loan to charlie)
+* reface CS
 * po12
 * korg em1
 
@@ -65,9 +65,9 @@ I got a problem, and lots of stuff.
 
 * klavis twin waves
 * make noise function
-* lil' erebus
-* befacto dual atenuverter
-* 2hp tune
+* lil' erebus (not picked up)
+* befacto dual atenuverter (not picked up)
+* 2hp tune (not picked up)
 
 ## stuff i used to have
 
@@ -102,6 +102,5 @@ I got a problem, and lots of stuff.
 ## stuff i want
 
 * dsi p6 😍😍😍
-* elektron rytm mkii
-* elektron a4 mkii
-* virus ti2 polar (best one!)
+* kyra
+* moog one (!!!)
