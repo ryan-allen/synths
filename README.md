@@ -22,8 +22,8 @@ I got a problem, and lots of stuff.
 
 ### digital
 
-* tasty chips gr-1
-* yamaha modx6
+* tasty chips gr-1 (on loan to rod)
+* yamaha modx6 (on loan to clinton)
 * nord lead a1
 * nord electro 5d
 * pg1000 programmer
