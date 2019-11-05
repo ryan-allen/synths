@@ -43,7 +43,9 @@ I got a problem, and lots of stuff.
 * scarlett 18i20
 * babyface pro
 * rnc
-* rokit 5's
+* rokit 5's (on loan to david)
+* genelec 8020d
+* xtouch one
 * beatstep 
 * keystep
 * keylab mkii 49
