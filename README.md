@@ -26,7 +26,6 @@ I got a problem, and lots of stuff.
 * yamaha modx6 (on loan to clinton)
 * nord lead a1
 * nord electro 5d
-
 * korg m1
 * korg wavestation a/d (rack)
 * elektron digitone
@@ -42,12 +41,12 @@ I got a problem, and lots of stuff.
 * eventide h9
 * scarlett 18i20 (on loan to ben)
 * babyface pro
-* rnc
+* rme rnc
 * rokit 5's (on loan to david)
 * genelec 8020d
 * xtouch one
 * beatstep 
-* keystep
+* keystep (on loan to ben)
 * keylab mkii 49
 * nanoKONTROL2
 
