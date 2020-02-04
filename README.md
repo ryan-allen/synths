@@ -22,11 +22,11 @@ I got a problem, and lots of stuff.
 
 ### digital
 
-* tasty chips gr-1 (on loan to rod)
+* tasty chips gr-1
 * yamaha modx6 (on loan to clinton)
 * nord lead a1
 * nord electro 5d
-* pg1000 programmer
+
 * korg m1
 * korg wavestation a/d (rack)
 * elektron digitone
@@ -38,9 +38,9 @@ I got a problem, and lots of stuff.
 ### etc
 
 * social entropy engine (white)
-* yamaha mg10 (on loan to ben)
-* eventide h9 (on loan to ben)
-* scarlett 18i20
+* yamaha mg10 
+* eventide h9
+* scarlett 18i20 (on loan to ben)
 * babyface pro
 * rnc
 * rokit 5's (on loan to david)
@@ -85,7 +85,7 @@ I got a problem, and lots of stuff.
 * korg minilogue
 * moog mother 32
 * digitakt
-* deckards dream
+* deckards dream (sold to me mate eddie!)
 * novation peak
 * korg arp desktop (rev2)
 * korg arp (rev1, non-fs)
@@ -100,9 +100,11 @@ I got a problem, and lots of stuff.
 * soundtoys bundle
 * dsi rev 2 16
 * sem boomstar mki
+* pg1000 programmer
 
-## stuff i want
+## stuff on order
 
-* dsi p6 😍😍😍
-* kyra
-* moog one (!!!)
+* korg arp 2600 fs
+* nord wave 2
+
+
