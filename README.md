@@ -22,6 +22,7 @@ I got a problem, and lots of stuff.
 
 ### digital
 
+* model:cycles
 * tasty chips gr-1
 * yamaha modx6 (on loan to clinton)
 * nord lead a1
@@ -105,4 +106,3 @@ I got a problem, and lots of stuff.
 
 * korg arp 2600 fs
 * nord wave 2
-* model:cycles
