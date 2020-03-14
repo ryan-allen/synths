@@ -23,6 +23,7 @@ I got a problem, and lots of stuff.
 ### digital
 
 * model:cycles
+* casio cz101 (yay!)
 * tasty chips gr-1
 * yamaha modx6 (on loan to clinton)
 * nord lead a1
@@ -48,6 +49,7 @@ I got a problem, and lots of stuff.
 * xtouch one
 * beatstep 
 * keystep (on loan to ben)
+* keystep black edition
 * keylab mkii 49
 * nanoKONTROL2
 
