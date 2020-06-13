@@ -5,6 +5,7 @@ I got a problem, and lots of stuff.
 
 ### analog monos
 
+* korg arp 2600 fs (at turra)
 * moog voyager performer
 * moog subsequent 37 cv
 * moog dfam
@@ -12,7 +13,7 @@ I got a problem, and lots of stuff.
 * pitsburgh microvolt
 * make noise 0 coast
 * moog minitaur (special edition sides) (on loan to ben)
-* korg monotron
+* korg monotron (missing in action, as in, a box somewhere)
 
 ### analog polys
 
@@ -22,8 +23,10 @@ I got a problem, and lots of stuff.
 
 ### digital
 
+* access virus ti2 polar (yay!!!)
 * model:cycles
 * casio cz101 (yay!)
+* roland mc 707 (it's really good!)
 * tasty chips gr-1
 * yamaha modx6 (on loan to clinton)
 * nord lead a1
@@ -42,10 +45,10 @@ I got a problem, and lots of stuff.
 * yamaha mg10 
 * eventide h9
 * scarlett 18i20 (on loan to ben)
-* babyface pro
+* babyface pro (it's good, the mk1)
 * rme rnc
 * rokit 5's (on loan to david)
-* genelec 8020d
+* genelec 8020d (best idea ever)
 * xtouch one
 * beatstep 
 * keystep (on loan to ben)
@@ -64,6 +67,7 @@ I got a problem, and lots of stuff.
 * tone2 icarus
 * d16 punchbox
 * d16 phoyshsochoscoyon
+* ableton 10 suite (yeah i bought it again...)
 
 ### euro
 
@@ -106,5 +110,4 @@ I got a problem, and lots of stuff.
 
 ## stuff on order
 
-* korg arp 2600 fs
-* nord wave 2
+nothing at the moment!
