@@ -34,14 +34,15 @@ I got a problem, and lots of stuff.
 * korg m1
 * korg wavestation a/d (rack)
 * elektron digitone
-* elektron digitakt
+* elektron digitakt (on loan to pix)
 * reface CS
 * po12
+* po137
 * korg em1
 
 ### etc
 
-* social entropy engine (white)
+* social entropy engine (white) w/ cv add on
 * yamaha mg10 
 * eventide h9
 * scarlett 18i20 (on loan to ben)
@@ -92,13 +93,13 @@ I got a problem, and lots of stuff.
 * moog mother 32
 * digitakt
 * deckards dream (sold to me mate eddie!)
-* novation peak
+* novation peak (sold to pete)
 * korg arp desktop (rev2)
 * korg arp (rev1, non-fs)
 * reface dx
 * novation zero sl
 * novation ks5
-* roland rd700
+* roland rd700 (sold to clinton)
 * roland a88
 * dx7 mki
 * roland d50
@@ -110,4 +111,5 @@ I got a problem, and lots of stuff.
 
 ## stuff on order
 
-nothing at the moment!
+* moog subharmonicon
+* genelec 7040a
