@@ -1,5 +1,6 @@
 # synths
-I got a problem, and lots of stuff.
+
+More gear is always the answer, I think...
 
 ## stuff i got
 
