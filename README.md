@@ -1,6 +1,6 @@
 # synths
 
-More gear is always the answer, I think...
+more gear is _always_ the answer, I think...
 
 ## stuff i got
 
