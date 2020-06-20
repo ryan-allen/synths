@@ -116,3 +116,7 @@ more gear is _always_ the answer, I think...
 
 * moog subharmonicon
 
+## on my mind...
+
+* prophet 6
+* rd88
