@@ -13,6 +13,7 @@ I got a problem, and lots of stuff.
 * pitsburgh microvolt
 * make noise 0 coast
 * moog minitaur (special edition sides) (on loan to ben)
+* dsi mopho (but not sure if it works?)
 * korg monotron (missing in action, as in, a box somewhere)
 
 ### analog polys
@@ -50,6 +51,7 @@ I got a problem, and lots of stuff.
 * rme rnc
 * rokit 5's (on loan to david)
 * genelec 8020d (best idea ever)
+* genelec 7040a (another great idea)
 * xtouch one
 * beatstep 
 * keystep (on loan to ben)
@@ -112,4 +114,4 @@ I got a problem, and lots of stuff.
 ## stuff on order
 
 * moog subharmonicon
-* genelec 7040a
+
