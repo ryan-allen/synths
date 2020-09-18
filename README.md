@@ -47,15 +47,12 @@ more gear is _always_ the answer, I think...
 
 * yamaha mg10 
 * eventide h9
-* scarlett 18i20 (on loan to ben)
 * babyface pro (it's good, the mk1)
-
 * rokit 5's (on loan to david)
 * genelec 8020d (best idea ever)
 * genelec 7040a (another great idea)
 * xtouch one
 * beatstep 
-* keystep (on loan to ben)
 * keystep black edition
 * keylab mkii 49
 * nanoKONTROL2
@@ -114,6 +111,8 @@ more gear is _always_ the answer, I think...
 * korg prologue 16
 * social entropy engine (white) w/ cv add on
 * rme rnc
+* keystep
+* scarlett 18i20
 
 ## stuff on order
 
