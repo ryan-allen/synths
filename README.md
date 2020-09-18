@@ -6,7 +6,8 @@ more gear is _always_ the answer, I think...
 
 ### analog monos
 
-* korg arp 2600 fs (at turra)
+* korg arp 2600 fs
+* moog subharmonicon (not really a mono but whatever)
 * moog voyager performer
 * moog subsequent 37 cv
 * moog dfam
@@ -26,6 +27,7 @@ more gear is _always_ the answer, I think...
 ### digital
 
 * access virus ti2 polar (yay!!!)
+* roland rd88
 * model:cycles
 * casio cz101 (yay!)
 * roland mc 707 (it's really good!)
@@ -114,9 +116,8 @@ more gear is _always_ the answer, I think...
 
 ## stuff on order
 
-* moog subharmonicon
+nothing right now!
 
 ## on my mind...
 
 * prophet 6
-* rd88
