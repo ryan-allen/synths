@@ -21,7 +21,6 @@ more gear is _always_ the answer, I think...
 ### analog polys
 
 * juno 6 w/ 66 mod
-* korg prologue 16
 * alpha juno 1 + midiclub programmer
 
 ### digital
@@ -38,7 +37,7 @@ more gear is _always_ the answer, I think...
 * korg m1
 * korg wavestation a/d (rack)
 * elektron digitone
-* elektron digitakt (on loan to pix)
+* elektron digitakt (on loan to pix, but sold to pete)
 * reface CS
 * po12
 * po137
@@ -46,12 +45,11 @@ more gear is _always_ the answer, I think...
 
 ### etc
 
-* social entropy engine (white) w/ cv add on
 * yamaha mg10 
 * eventide h9
 * scarlett 18i20 (on loan to ben)
 * babyface pro (it's good, the mk1)
-* rme rnc
+
 * rokit 5's (on loan to david)
 * genelec 8020d (best idea ever)
 * genelec 7040a (another great idea)
@@ -113,6 +111,9 @@ more gear is _always_ the answer, I think...
 * dsi rev 2 16
 * sem boomstar mki
 * pg1000 programmer
+* korg prologue 16
+* social entropy engine (white) w/ cv add on
+* rme rnc
 
 ## stuff on order
 
