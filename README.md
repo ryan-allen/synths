@@ -7,7 +7,7 @@ more gear is _always_ the answer, I think...
 ### analog monos
 
 * korg arp 2600 fs
-* moog subharmonicon (not really a mono but whatever)
+* moog subharmonicon (not really a mono, but whatever!)
 * moog voyager performer
 * moog subsequent 37 cv
 * moog dfam
@@ -21,12 +21,13 @@ more gear is _always_ the answer, I think...
 ### analog polys
 
 * juno 6 w/ 66 mod
-* alpha juno 1 + midiclub programmer
+* alpha juno 1 (in pieces currently, needs a clean!) + midiclub programmer
 
 ### digital
 
 * access virus ti2 polar (yay!!!)
 * roland rd88
+* polyend tracker (yay!)
 * model:cycles
 * casio cz101 (yay!)
 * roland mc 707 (it's really good!)
@@ -116,7 +117,7 @@ more gear is _always_ the answer, I think...
 
 ## stuff on order
 
-nothing right now!
+nothing right now, but korg event soon so...
 
 ## on my mind...
 
