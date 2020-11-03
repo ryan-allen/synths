@@ -117,8 +117,8 @@ more gear is _always_ the answer, I think...
 
 ## stuff on order
 
-nothing right now, but korg event soon so...
+* sequential prophet 10 rev 4, WHOOO!
 
 ## on my mind...
 
-* prophet 6
+* a holiday
