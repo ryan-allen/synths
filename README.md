@@ -20,12 +20,13 @@ more gear is _always_ the answer, I think...
 
 ### analog polys
 
-* juno 6 w/ 66 mod
+* juno 6 w/ 66 mod (gonna go live with sam forever, once i get the flight case sorted!)
 * alpha juno 1 (in pieces currently, needs a clean!) + midiclub programmer
 
 ### digital
 
 * access virus ti2 polar (yay!!!)
+* korg opsix (yaaaaay)
 * roland rd88
 * polyend tracker (yay!)
 * model:cycles
@@ -60,16 +61,16 @@ more gear is _always_ the answer, I think...
 
 ### software
 
-* cubase 10 pro
+* cubase 11 pro
 * arturia v collection 6
-* NI komplete
+* NI komplete vSomething?
 * serum
 * tone2 electra
 * tone2 saurus
 * tone2 icarus
 * d16 punchbox
 * d16 phoyshsochoscoyon
-* ableton 10 suite (yeah i bought it again...)
+* ableton 11 suite (yeah i bought it again...)
 
 ### euro
 
@@ -115,10 +116,7 @@ more gear is _always_ the answer, I think...
 * keystep
 * scarlett 18i20
 
-## stuff on order
-
-* sequential prophet 10 rev 4, WHOOO!
-
 ## on my mind...
 
+* sequential prophet 10 rev 4
 * a holiday
