@@ -4,6 +4,10 @@ more gear is _always_ the answer, I think...
 
 ## stuff i got
 
+### on order
+
+* sequential take 5, whooo!
+
 ### analog monos
 
 * korg arp 2600 fs
@@ -116,7 +120,3 @@ more gear is _always_ the answer, I think...
 * keystep
 * scarlett 18i20
 
-## on my mind...
-
-* sequential prophet 10 rev 4
-* a holiday
