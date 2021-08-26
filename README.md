@@ -26,6 +26,7 @@ more gear is _always_ the answer, I think...
 
 * juno 6 w/ 66 mod (gonna go live with sam forever, once i get the flight case sorted!)
 * alpha juno 1 (in pieces currently, needs a clean!) + midiclub programmer
+* another alpha juno 1, in super good condition and converted to 240v, with the og case, whoo!
 
 ### digital
 
