@@ -4,13 +4,9 @@ more gear is _always_ the answer, I think...
 
 ## stuff i got
 
-### on order
-
-* sequential take 5, whooo!
-
 ### analog monos
 
-* korg arp 2600 fs
+* korg arp 2600 fs (selling to e)
 * moog subharmonicon (not really a mono, but whatever!)
 * moog voyager performer
 * moog subsequent 37 cv
@@ -18,13 +14,13 @@ more gear is _always_ the answer, I think...
 * moog mother 32 (x 2)
 * pitsburgh microvolt
 * make noise 0 coast
-* moog minitaur (special edition sides) (on loan to ben)
+* moog minitaur (special edition sides) (on loan to ben, he still got it!)
 * dsi mopho (but not sure if it works?)
 * korg monotron (missing in action, as in, a box somewhere)
 
 ### analog polys
 
-* juno 6 w/ 66 mod (gonna go live with sam forever, once i get the flight case sorted!)
+* juno 6 w/ 66 mod (gonna go live with sam forever, once i get the flight case sorted, promised a long time ago)
 * alpha juno 1 (in pieces currently, needs a clean!) + midiclub programmer
 * another alpha juno 1, in super good condition and converted to 240v, with the og case, whoo!
 
@@ -32,19 +28,19 @@ more gear is _always_ the answer, I think...
 
 * access virus ti2 polar (yay!!!)
 * korg opsix (yaaaaay)
-* roland rd88
+* roland rd88 (zac has the psu and the case the bastard!)
 * polyend tracker (yay!)
 * model:cycles
 * casio cz101 (yay!)
 * roland mc 707 (it's really good!)
 * tasty chips gr-1
-* yamaha modx6 (on loan to clinton)
-* nord lead a1
-* nord electro 5d
+* yamaha modx6 
+* nord lead a1 (zac has it)
+* nord electro 5d (zac has it)
 * korg m1
 * korg wavestation a/d (rack)
 * elektron digitone
-* elektron digitakt (on loan to pix, but sold to pete)
+* elektron digitakt (on loan to pix, but sold to pete, pix out of contact so it's gone)
 * reface CS
 * po12
 * po137
@@ -55,7 +51,7 @@ more gear is _always_ the answer, I think...
 * yamaha mg10 
 * eventide h9
 * babyface pro (it's good, the mk1)
-* rokit 5's (on loan to david)
+* rokit 5's (on loan to david, not getting it back so it's gone)
 * genelec 8020d (best idea ever)
 * genelec 7040a (another great idea)
 * xtouch one
