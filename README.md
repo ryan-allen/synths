@@ -6,7 +6,6 @@ more gear is _always_ the answer, I think...
 
 ### analog monos
 
-* korg arp 2600 fs (selling to e)
 * moog subharmonicon (not really a mono, but whatever!)
 * moog voyager performer
 * moog subsequent 37 cv
@@ -83,6 +82,7 @@ more gear is _always_ the answer, I think...
 
 ## stuff i used to have
 
+* korg arp 2600 fs (sold to e!)
 * moog sub37
 * moog minitaur
 * moog slim fatty
