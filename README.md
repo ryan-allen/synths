@@ -7,9 +7,9 @@ more gear is _always_ the answer, I think...
 ### analog monos
 
 * moog subharmonicon (not really a mono, but whatever!)
-* moog voyager performer
+* moog voyager performer [no lend: possible issues that may be expensive to resolve, triage required]
 * moog subsequent 37 cv
-* moog dfam
+* moog dfam (in nz with dougal, will have to visit dougal to get it back)
 * moog mother 32 (x 2)
 * pitsburgh microvolt
 * make noise 0 coast
@@ -19,13 +19,13 @@ more gear is _always_ the answer, I think...
 
 ### analog polys
 
-* juno 6 w/ 66 mod (gonna go live with sam forever, once i get the flight case sorted, promised a long time ago)
+* juno 6 w/ 66 mod (was gonna send to a UK dude, long story? still got it, dunno)
 * alpha juno 1 (in pieces currently, needs a clean!) + midiclub programmer
 * another alpha juno 1, in super good condition and converted to 240v, with the og case, whoo!
 
 ### digital
 
-* access virus ti2 polar (yay!!!)
+* access virus ti2 polar (yay!!!) [no lend: absolute mint, proper case, might be my #1 baby, lovely and untouched by dust]
 * korg opsix (yaaaaay)
 * roland rd88 (zac has the psu and the case the bastard!)
 * polyend tracker (yay!)
