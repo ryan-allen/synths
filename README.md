@@ -2,6 +2,17 @@
 
 more gear is _always_ the answer, I think...
 
+## proper rad shit
+
+* [access virus ti2 polar](https://www.virus.info/virusti) - my #1 baby
+* [moog voyager performer](https://www.moog.com/products/minimoog-voyager) - legendary
+* [moog subsequent 37 cv](https://www.moog.com/products/semi-modular/subsequent-37-cv) - top tier moog mono
+* [juno 6](https://www.roland.com/global/promos/roland_classic/juno-6_juno-60/) w/ 66 mod - classic analog poly
+* [elektron digitone ii](https://www.elektron.se/products/digitone-ii/) - new hotness
+* [elektron analog rytm mkii](https://www.elektron.se/products/analog-rytm-mkii/) - new hotness
+* [korg opsix](https://www.korg.com/us/products/synthesizers/opsix/) - yaaaaay
+* [genelec 8020d](https://www.genelec.com/8020d) + [7040a](https://www.genelec.com/7040a) - best idea ever
+
 ## stuff i got
 
 ### analog monos
